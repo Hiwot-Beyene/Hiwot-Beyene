@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiwot-Beyene
 - 👀 I’m interested in Programming
 - 🌱 I’m currently teaching myself Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on teaching self for being best Programmer
 - 📫 How to reach me @Hiwot_Beyene on telegram
 
 <!---
