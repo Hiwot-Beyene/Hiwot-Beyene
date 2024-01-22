@@ -1,10 +1,4 @@
-<html>
-  <body>
-    <div>
-      <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width=100% />
-    </div>
-  </body>
-</html>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiwi.beyu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiwot-beyene) 
