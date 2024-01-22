@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋! My name is Hiwot Beyene and I'm a Full-Stack Developer and Graphics Designer</h2>
 
 
 ## 🌐 Socials:
